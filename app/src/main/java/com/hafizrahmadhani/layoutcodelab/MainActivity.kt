@@ -29,7 +29,6 @@ class MainActivity : ComponentActivity() {
     }
 }
 
-
 @Composable
 fun PhotographerCard() {
     Row {
